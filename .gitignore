@@ -41,3 +41,7 @@ instance/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# filepath: .gitignore
+venvvenv/
+*.sql
